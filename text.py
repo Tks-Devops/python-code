@@ -2,6 +2,6 @@
 
 # Get user input
 #name = input("Enter your name: ")
-name = "tk"
+name = "tk sahu"
 # Print a greeting message
 print(f"Hello, {name}! Welcome to Python programming.")
